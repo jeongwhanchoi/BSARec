@@ -1,5 +1,24 @@
-# BSARec
-This is the official source code for our AAAI 2024 Paper ["An Attentive Inductive Bias for Sequential Recommendation beyond the Self-Attention"](https://arxiv.org/abs/2312.10325)
+<div align=center>
+<h1>An Attentive Inductive Bias for Sequential Recommendation beyond the Self-Attention</h1>
+
+![GitHub Repo stars](https://img.shields.io/github/stars/yehjin-shin/BSARec)
+ [![arXiv](https://img.shields.io/badge/arXiv-2312.10325-b31b1b.svg)](https://arxiv.org/abs/2312.10325)
+
+<div>
+    <a href="https://yehjin-shin.github.io/" target="_blank">Yehjin Shin*</a>,
+      <a href="https://www.jeongwhanchoi.com" target="_blank">Jeongwhan Choi*</a>,
+      <a href="https://scholar.google.com/citations?user=foMLcAAAAAJ&hl=en" target="_blank">Hyowon Wi</a>,
+      <a href="https://sites.google.com/view/noseong" target="_blank">Noseong Park</a>,
+    <div>
+     Yonsei University, South Korea
+    </div>
+</div>
+</div>
+
+---
+
+This is the official PyTorch implementation of the AAAI 2024 paper "An Attentive Inductive Bias for Sequential Recommendation beyond the Self-Attention".
+
 
 ## Overview
 Beyond Self-Attention for Sequential Recommendation (BSARec) leverages Fourier transform to strike a balance between our inductive bias and self-attention.
